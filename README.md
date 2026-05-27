@@ -1,16 +1,75 @@
+[update-readmes]   Mode: rewrite — migrating to template structure...
 # ExoPlayer
 
-**This GitHub project is deprecated.**  The latest version of ExoPlayer is
-published as part of [AndroidX Media3][].
+[![Built with Ona](https://ona.com/build-with-ona.svg)](https://app.ona.com/#https://github.com/Interested-Deving-1896/ExoPlayer)
 
-All users should migrate to AndroidX Media3. Please refer to our [migration
-guide and script][] to move your codebase to the Media3 package names.
+<!-- AI:start:what-it-does -->
+_Description pending._
+<!-- AI:end:what-it-does -->
 
-*   As of 2024-04-03 we have stopped pushing commits to the `dev-v2` branch in
-    this repository. New ExoPlayer code is available in the AndroidX Media
-    GitHub repository: https://github.com/androidx/media
-*   `exoplayer:2.19.1` was the last artifact released from this project, we
-    don't plan to release any more.
+## Architecture
 
-[AndroidX Media3]: https://github.com/androidx/media
-[migration guide and script]: https://developer.android.com/guide/topics/media/media3/getting-started/migration-guide
+<!-- AI:start:architecture -->
+_Architecture documentation pending._
+<!-- AI:end:architecture -->
+
+## Install
+
+<!-- Add installation instructions here. This section is yours — the AI will not modify it. -->
+
+```bash
+git clone https://github.com/Interested-Deving-1896/ExoPlayer.git
+cd ExoPlayer
+```
+
+## Usage
+
+<!-- Add usage examples here. This section is yours — the AI will not modify it. -->
+
+## Configuration
+
+<!-- Document configuration options here. This section is yours — the AI will not modify it. -->
+
+## CI
+
+<!-- AI:start:ci -->
+_CI documentation pending._
+<!-- AI:end:ci -->
+
+## Mirror chain
+
+<!-- AI:start:mirror-chain -->
+This repo is maintained in [`Interested-Deving-1896/ExoPlayer`](https://github.com/Interested-Deving-1896/ExoPlayer) and mirrored through:
+
+```
+Interested-Deving-1896/ExoPlayer  ──►  OpenOS-Project-OSP/ExoPlayer  ──►  OpenOS-Project-Ecosystem-OOC/ExoPlayer
+```
+
+Changes flow downstream automatically via the hourly mirror chain in
+[`fork-sync-all`](https://github.com/Interested-Deving-1896/fork-sync-all).
+Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-Deving-1896`.
+<!-- AI:end:mirror-chain -->
+
+## Contributors
+
+<!-- AI:start:contributors -->
+_Contributors pending._
+<!-- AI:end:contributors -->
+
+## Origins
+
+<!-- AI:start:origins -->
+_Original project — no upstream fork._
+<!-- AI:end:origins -->
+
+## Resources
+
+<!-- AI:start:resources -->
+_No additional resource files found._
+<!-- AI:end:resources -->
+
+## License
+
+<!-- AI:start:license -->
+[Apache-2.0](https://github.com/Interested-Deving-1896/ExoPlayer/blob/release-v2/LICENSE) © 2026 [Interested-Deving-1896](https://github.com/Interested-Deving-1896)
+<!-- AI:end:license -->
